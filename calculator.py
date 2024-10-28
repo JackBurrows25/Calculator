@@ -72,5 +72,5 @@ def calculator(num1, num2, operator):
 # calculator(10, 2, "/")  # Output: The result is: 5.0
 # calculator(7, 7, ">=")  # Output: The comparison result is: True
 print(calculator(4,5, "*"))
-print(calculator(10,0, "/"))
+print(calculator(10,2, "/"))
 print(calculator(7,7, ">="))
