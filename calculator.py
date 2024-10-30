@@ -48,7 +48,7 @@ def calculator(num1, num2, operator):
          result = "no"
         elif operator == "/":
          result = num1 / num2 
-         print(f"The result is: {result}")
+         result = (f"The result is: {result}")
     elif operator == "%":
         result = num1 % num2
     elif operator == ">":
